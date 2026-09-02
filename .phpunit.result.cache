@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Feature\\BookCatalogTest::test_catalog_page_is_accessible_for_authenticated_user":0.942,"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.001,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.81}}
